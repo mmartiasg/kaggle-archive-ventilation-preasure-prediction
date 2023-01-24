@@ -15,5 +15,5 @@ Notes:
  - the C and R have an exponential decay behaviour thus the value I have is the starting value.
  - Along 3 seconds the value will decay (1/R_C_train)*np.exp(-(time_step_train-3))
  - The time is modelled as a signal in terms of sin and cosine
- - The decision to choose a model with 1DConv is because they are faster and the results at the end were good. Even though it is not the best architecture...
+ - The decision to choose a model with 1DConv is because they are faster and the results at the end were good. Even though it is not the best architecture... I was working in a mbp 2017 by that time.
 
