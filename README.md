@@ -1,4 +1,4 @@
-# kaggle-archive-ventilation-preasure-prediction
+# kaggle-archive-ventilation-pressure-prediction
 
 This is the work I did for a pass competition in 2021
 
